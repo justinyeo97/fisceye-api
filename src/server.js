@@ -6,7 +6,7 @@ app.listen(env.PORT, () =>
   console.log(
     JSON.stringify({
       level: "info",
-      message: "Splitflow API listening",
+      message: "FiscEye API listening",
       port: env.PORT,
       environment: env.NODE_ENV,
     }),

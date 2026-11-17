@@ -1,10 +1,10 @@
-# Splitflow architecture and rollout proposal
+# FiscEye architecture and rollout proposal
 
 Updated: 26 October 2026
 
 ## Purpose
 
-Splitflow helps sales agencies compare consultant revenue with operating expenses and base salary costs, measure individual and country ROI, allocate expenses to regional currencies, and consolidate results in the company's home currency for headquarters.
+FiscEye helps sales agencies compare consultant revenue with operating expenses and base salary costs, measure individual and country ROI, allocate expenses to regional currencies, and consolidate results in the company's home currency for headquarters.
 
 ## Implementation status
 

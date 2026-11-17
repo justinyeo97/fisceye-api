@@ -1,6 +1,6 @@
-# Splitflow API
+# FiscEye API
 
-Splitflow manages consultants, expenses, placement revenue, currency conversions, and reports comparing revenue with operating and salary costs. This backend uses Express, Supabase Auth/Postgres, and Zod.
+FiscEye manages consultants, expenses, placement revenue, currency conversions, and reports comparing revenue with operating and salary costs. This backend uses Express, Supabase Auth/Postgres, and Zod.
 
 ## Current features
 
@@ -11,7 +11,7 @@ Splitflow manages consultants, expenses, placement revenue, currency conversions
 - Faster ROI valuation through deduplicated historical rate lookups with up to six concurrent requests. Existing finalized conversions, zero amounts and reporting-currency amounts skip external lookups.
 - Optional on-demand Groq explanations with verified supporting figures, anonymous consultant labels, response validation, caching and free-usage controls.
 
-The [React client](https://github.com/justinyeo97/splitflow-client) also provides persistent light/dark mode, green/red profit and ROI indicators, and comma-grouped supporting figures. Those are display features; API financial values remain unformatted decimal strings.
+The [FiscEye React client](https://github.com/justinyeo97/fisceye-client) also provides persistent light/dark mode, green/red profit and ROI indicators, and comma-grouped supporting figures. Those are display features; API financial values remain unformatted decimal strings.
 
 ## Quick start
 
